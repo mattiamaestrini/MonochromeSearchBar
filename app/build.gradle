@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "com.mattiamaestrini.monochromesearchbar"
         minSdkVersion 15
-        targetSdkVersion 29
+        targetSdkVersion 30
         versionCode 2
         versionName "1.1"
     }
